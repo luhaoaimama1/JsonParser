@@ -6,4 +6,5 @@
 >现在的IDE是: IntelliJ IDEA CE
 >这个是gbk项目当时啥也不懂。。。
 
->晚上附上:使用工具类 与 介绍~
+>通过此包生成的exe程序：
+http://pan.baidu.com/s/1eR2L5Lo
